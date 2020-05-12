@@ -1102,6 +1102,17 @@ section.lazy-placeholder:after {
   color: #ff3366;
   text-align: center;
 }
+.cid-qTkA127IK8 .elf-head {
+  background-color: #fff;
+  border-radius: 0.5em;
+  padding-left: 0.05em;
+  padding-right: 0.05em;
+}
+.cid-qTkA127IK8 .elf-head-sub {
+  background-color: #ffe733;
+  transform: skew(-20deg);
+  color: #000;
+}
 .cid-rYJNQQlQFq {
   padding-top: 90px;
   padding-bottom: 90px;
